@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hello Everyone!!
 
-<!--
-**TimothiXGod/TimothiXGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Computer Science student passionate about software development, web technologies, cloud computing, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Currently Learning
+
+- JavaScript
+- React
+- AWS & DevOps
+- Python
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Technologies
+- HTML
+- CSS
+- JavaScript
+- Python
+
+### Tools
+- Git
+- GitHub
+
+### Frameworks
+- React (Learning)
+
+---
+
+## 🏆 Current Goals
+
+- Build scalable real-world projects
+- Improve data structures and algorithms skills
+- Become a proficient full-stack developer
+- Explore AI, cloud, and DevOps technologies
+
+---
+
+## 📌 About Me
+
+- Passionate about creating useful and efficient solutions
+- Always exploring new technologies and development practices
+- Learning through projects, experimentation, and consistency
+- Focused on long-term growth as a software engineer
+
+---
+
+**Enjoy Learing**
