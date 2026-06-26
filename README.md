@@ -45,7 +45,8 @@ I'm Computer Science student passionate about software development, web technolo
 - Always exploring new technologies and development practices
 - Learning through projects, experimentation, and consistency
 - Focused on long-term growth as a software engineer
-
+---
+<a href="https://www.timothipariyar.com.np/">My Portfolio</a>
 ---
 
 **Enjoy Learing**
